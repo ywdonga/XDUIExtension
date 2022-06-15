@@ -1,0 +1,6 @@
+framework module Pods_XDUIExtension_Example {
+  umbrella header "Pods-XDUIExtension_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
